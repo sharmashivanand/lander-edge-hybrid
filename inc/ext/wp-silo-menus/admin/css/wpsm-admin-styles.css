@@ -1,0 +1,179 @@
+/**
+ *
+ * Genesis SILO Menus — Admin stylesheet
+ * Description: This stylesheet is used for admin page styles
+ *
+ * @package Genesis SILO Menus
+ * @author Shivanand Sharma
+ * @since 1.0
+ *
+ */
+
+/* Clearfix for WordPress notices */
+
+.genesis_page_wp-silo-menus div.error,
+.genesis_page_wp-silo-menus div.updated {
+    clear: both;
+}
+
+/* Post Types metabox */
+
+.left-label {
+    vertical-align: top;
+    width: 50%;
+}
+
+.clear {
+	display: block;
+	clear: both;
+}
+
+.one-half {
+	float: left;
+	margin-left: 2.564102564102564%;
+	width: 48.717948717948715%;
+}
+
+.first {
+	clear: both;
+	margin-left: 0;
+}
+
+.wpsm-error {
+	display: block;
+	margin-right: 20px;
+	float: left;
+	color: #f8bc3a;
+}
+
+.wpsm-error .dashicons {
+	font-size: 26px;
+	position: relative;
+	top: 3px;
+}
+
+/* Taxonomy metabox */
+
+.wpsm-taxonomy-box h3 {
+	font-size: 14px;
+	line-height: 1.4;
+	margin: 0;
+	padding: 8px 12px;
+	border-bottom: 1px solid #eeeeee;
+}
+
+/* Branding our metaboxes */
+
+#wpsm-custom-menus h3,
+.wpsm-taxonomy-box h3,
+.wpsm-sidebar .section h3 {
+	background-color: #00bbff;
+	color: #ffffff;
+}
+
+#wpsm-custom-menus .handlediv {
+	color: #fff;
+}
+
+/* Plugin admin page styles */
+
+.genesis_page_wp-silo-menus .genesis-metaboxes {
+	position: relative;
+	max-width: 690px;
+}
+
+.wpsm-sidebar {
+	left: 750px;
+	max-width: 300px;
+	position: absolute;
+}
+
+.wpsm-sidebar h3 {
+	border-bottom: 1px solid #eeeeee;
+	line-height: 1.4;
+	margin: 0;
+	padding: 8px 12px;
+	font-size: 14px;
+}
+
+
+.wpsm-sidebar .wpsm-sb-inner {
+	background-color: #ffffff;
+	padding: 20px;
+	box-shadow: 0 0 1px rgba(0, 0, 0, 0.04);
+	border: 1px solid #e5e5e5;
+	border-top: 0 none;
+}
+
+.wpsm-sidebar .section {
+	margin-bottom: 20px;
+}
+
+.wpsm-news ul {
+	margin-top: 0;
+	margin-left: 0;
+	margin-right: 0;
+	padding: 0 1em;
+	list-style: none;
+}
+
+.wpsm-news li:before {
+	content: "";
+    border-color: transparent #0073aa;
+    border-style: solid;
+    border-width: 0.35em 0 0.35em 0.45em;
+    display: block;
+    height: 0;
+    width: 0;
+    left: -1em;
+    top: 1.1em;
+    position: relative;
+}
+
+.wpsm-news li {
+	line-height: 1.5;
+}
+
+.wpsm-news a {
+	text-decoration: none;
+}
+
+.wpsm-showcase .banner  {
+	margin-bottom: 20px;
+	border: 1px solid #e5e5e5;
+	border-top: 0 none;
+	position: relative;
+	background-color: #ffffff;
+}
+
+.wpsm-showcase h3 {
+	border-bottom: 0 none;
+}
+
+.wpsm-showcase .banner img {
+	display: block;
+	max-width: 100%;
+}
+
+.wpsm-sidebar .banner .theme-title {
+	background-color: #23a161;
+	bottom: 0;
+	color: #ffffff;
+	padding: 15px;
+	position: absolute;
+	text-align: center;
+	text-decoration: none;
+	width: 269px;
+}
+
+@media only screen and (max-width: 1025px) {
+	
+	.wpsm-sidebar {
+		display: inline-block;
+		left: 0;
+		position: relative;
+		width: 100%;
+		max-width: unset;
+	}
+	
+}

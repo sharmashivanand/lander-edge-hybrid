@@ -1,0 +1,4919 @@
+>>> Sass is watching for changes. Press Ctrl-C to stop.
+      write ../../style.min.css
+      write ../../style.min.css.map
+[Listen warning]:
+  Listen will be polling for changes. Learn more at https://github.com/guard/listen#polling-fallback.
+>>> Sass is watching for changes. Press Ctrl-C to stop.
+      write ../../style.css
+      write ../../style.css.map
+[Listen warning]:
+  Listen will be polling for changes. Learn more at https://github.com/guard/listen#polling-fallback.
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+SignalException: SIGTERM
+  Use --trace for backtrace.
+SignalException: SIGTERM
+  Use --trace for backtrace.
+[Listen warning]:
+  Listen will be polling for changes. Learn more at https://github.com/guard/listen#polling-fallback.
+[Listen warning]:
+  Listen will be polling for changes. Learn more at https://github.com/guard/listen#polling-fallback.
+>>> Sass is watching for changes. Press Ctrl-C to stop.
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Sass is watching for changes. Press Ctrl-C to stop.
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      error style.scss (Line 21: Invalid CSS after "... $body-bg-color": expected ";", was ":")
+>>> Change detected to: style.scss
+      error style.scss (Line 21: Invalid CSS after "... $body-bg-color": expected ";", was ":")
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      error style.scss (Line 24: Invalid CSS after "body ": expected selector or at-rule, was "{")
+>>> Change detected to: style.scss
+      error style.scss (Line 24: Invalid CSS after "body ": expected selector or at-rule, was "{")
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      error style.scss (Line 143: Undefined variable: "$highlight".)
+>>> Change detected to: style.scss
+      error style.scss (Line 143: Undefined variable: "$highlight".)
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      error style.scss (Line 653: Invalid CSS after "...lumn Classes */": expected selector or at-rule, was "/* these are no...")
+      error style.scss (Line 653: Invalid CSS after "...lumn Classes */": expected selector or at-rule, was "/* these are no...")
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      error style.scss (Line 660: Undefined variable: "$content-width".)
+      error style.scss (Line 660: Undefined variable: "$content-width".)
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      error style.scss (Line 642: Undefined variable: "$bp1".)
+      error style.scss (Line 642: Undefined variable: "$bp1".)
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      error style.scss (Line 662: Undefined variable: "$content-width".)
+      error style.scss (Line 662: Undefined variable: "$content-width".)
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      error style.scss (Line 731: Invalid CSS after "*/": expected "}", was "")
+      error style.scss (Line 731: Invalid CSS after "*/": expected "}", was "")
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      error style.scss (Line 731: Invalid CSS after "*/": expected "}", was "")
+      error style.scss (Line 731: Invalid CSS after "*/": expected "}", was "")
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      error style.scss (Line 730: Invalid CSS after "*/": expected "}", was "")
+      error style.scss (Line 730: Invalid CSS after "*/": expected "}", was "")
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      error style.scss (Line 54: Invalid CSS after "...rap: break-word": expected ";", was ":")
+>>> Change detected to: style.scss
+      error style.scss (Line 54: Invalid CSS after "...rap: break-word": expected ";", was ":")
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      error style.scss (Line 506: Invalid CSS after "...form: lowercase": expected "{", was ";")
+>>> Change detected to: style.scss
+      error style.scss (Line 506: Invalid CSS after "...form: lowercase": expected "{", was ";")
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      error style.scss (Line 506: Invalid CSS after "...form: lowercase": expected "{", was ";")
+>>> Change detected to: style.scss
+      error style.scss (Line 506: Invalid CSS after "...form: lowercase": expected "{", was ";")
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Sass is watching for changes. Press Ctrl-C to stop.
+      write ../../style.min.css
+      write ../../style.min.css.map
+[Listen warning]:
+  Listen will be polling for changes. Learn more at https://github.com/guard/listen#polling-fallback.
+>>> Sass is watching for changes. Press Ctrl-C to stop.
+      write ../../style.css
+      write ../../style.css.map
+[Listen warning]:
+  Listen will be polling for changes. Learn more at https://github.com/guard/listen#polling-fallback.
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      error style.scss (Line 708: Invalid CSS after "...lumn Classes */": expected selector or at-rule, was "/* these are no...")
+>>> Change detected to: style.scss
+      error style.scss (Line 708: Invalid CSS after "...lumn Classes */": expected selector or at-rule, was "/* these are no...")
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      error style.scss (Line 503: Incompatible units: 'em' and '%'.)
+      error style.scss (Line 503: Incompatible units: 'em' and '%'.)
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+SignalException: SignalException: SIGTERM
+  Use --trace for backtrace.
+SIGTERM
+  Use --trace for backtrace.
+>>> Sass is watching for changes. Press Ctrl-C to stop.
+      write ../../style.min.css
+      write ../../style.min.css.map
+[Listen warning]:
+  Listen will be polling for changes. Learn more at https://github.com/guard/listen#polling-fallback.
+>>> Sass is watching for changes. Press Ctrl-C to stop.
+      write ../../style.css
+      write ../../style.css.map
+[Listen warning]:
+  Listen will be polling for changes. Learn more at https://github.com/guard/listen#polling-fallback.
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+[Listen warning]:
+  Listen will be polling for changes. Learn more at https://github.com/guard/listen#polling-fallback.
+[Listen warning]:
+  Listen will be polling for changes. Learn more at https://github.com/guard/listen#polling-fallback.
+>>> Change detected to: style.scss
+>>> Sass is watching for changes. Press Ctrl-C to stop.
+>>> Change detected to: style.scss
+>>> Sass is watching for changes. Press Ctrl-C to stop.
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      error style.scss (Line 475: Invalid CSS after "  margin-bottom: 0": expected "{", was ";")
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      error style.scss (Line 475: Invalid CSS after "  margin-bottom: 0": expected "{", was ";")
+      error style.scss (Line 475: Invalid CSS after "  margin-bottom: 0": expected "{", was ";")
+      error style.scss (Line 475: Invalid CSS after "  margin-bottom: 0": expected "{", was ";")
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      error style.scss (Line 568: Invalid CSS after "...or: $link-color": expected ";", was ":")
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      error style.scss (Line 568: Invalid CSS after "...or: $link-color": expected ";", was ":")
+      error style.scss (Line 568: Invalid CSS after "...or: $link-color": expected ";", was ":")
+      error style.scss (Line 568: Invalid CSS after "...or: $link-color": expected ";", was ":")
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      error style.scss (Line 577: Undefined variable: "$link-color-hover".)
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      error style.scss (Line 577: Undefined variable: "$link-color-hover".)
+      error style.scss (Line 577: Undefined variable: "$link-color-hover".)
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      error style.scss (Line 577: Undefined variable: "$link-color-hover".)
+      error style.scss (Line 577: Undefined variable: "$link-color-hover".)
+      error style.scss (Line 577: Undefined variable: "$link-color-hover".)
+      error style.scss (Line 577: Undefined variable: "$link-color-hover".)
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.css
+      write ../../style.css.map
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+>>> Change detected to: style.scss
+      write ../../style.min.css
+      write ../../style.min.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.css
+      write ../../style.css.map
+      write ../../style.min.css
+      write ../../style.min.css.map

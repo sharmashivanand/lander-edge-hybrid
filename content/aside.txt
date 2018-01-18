@@ -1,0 +1,11 @@
+<?php
+
+do_action( 'lander_entry_header' );
+do_action( 'lander_before_entry_content' );
+do_action( 'lander_entry_content' );
+do_action( 'lander_after_entry_content' );
+do_action( 'lander_entry_footer' );
+
+add_action( 'lander_entry_header', 'lander_aside_header' );
+add_action( 'lander_entry_content', 'lander_aside_content' );
+add_action( 'lander_entry_footer', 'lander_aside_footer' );

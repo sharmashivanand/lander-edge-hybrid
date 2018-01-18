@@ -1,0 +1,853 @@
+/*!
+ * Theme Name:  Lander Edge
+ * Theme URI:   https://www.binaryturf.com/wordpress-themes/lander-edge/
+ * Description: A mobile-first starter theme built on Hybrid Core. This theme is intended to be used as a parent theme. Schema, accessibility, pluggable.
+ * Version:	 1.0.2
+ * Author:	  Shivanand Sharma
+ * Author URI:  https://www.binaryturf.com
+ * Tags:		one-column, two-columns, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, left-sidebar, post-formats, right-sidebar, threaded-comments, translation-ready
+ * Text Domain: lander
+ * Credits:	 Justin Tadlock (http://themehybrid.com) for  Hybrid Core, Dave Gandy (http://fontawesome.io) for Font Awesome
+ * License:	 GNU General Public License v2.0 or later
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ */
+
+
+/*! normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css */
+html{line-height:1.15;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,aside,footer,header,nav,section{display:block}h1{font-size:2em;margin:.67em 0}figcaption,figure,main{display:block}figure{margin:1em 40px}hr{box-sizing:content-box;height:0;overflow:visible}pre{font-family:monospace,monospace;font-size:1em}a{background-color:transparent;-webkit-text-decoration-skip:objects}abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted}b,strong{font-weight:inherit}b,strong{font-weight:bolder}code,kbd,samp{font-family:monospace,monospace;font-size:1em}dfn{font-style:italic}mark{background-color:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}audio,video{display:inline-block}audio:not([controls]){display:none;height:0}img{border-style:none}svg:not(:root){overflow:hidden}button,input,optgroup,select,textarea{font-family:sans-serif;font-size:100%;line-height:1.15;margin:0}button,input{overflow:visible}button,select{text-transform:none}[type=reset],[type=submit],button,html [type=button]{-webkit-appearance:button}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring{outline:1px dotted ButtonText}fieldset{padding:.35em .75em .625em}legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}progress{display:inline-block;vertical-align:baseline}textarea{overflow:auto}[type=checkbox],[type=radio]{box-sizing:border-box;padding:0}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-cancel-button,[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}details,menu{display:block}summary{display:list-item}canvas{display:inline-block}template{display:none}[hidden]{display:none}
+
+/* === Stylesheet === */
+
+$body-bg-color: #282828;
+$body-bg-color: #cccdce;
+$wrap-bg-color: #fff;
+$highlight: #2d62a3;
+$link-color: $highlight;
+$link-hover-color: darken($link-color, 5%);
+$content-width-1c: 720px;
+$content-width-2c: 720px;
+$padding: 35px;
+$sb-width: 300px;
+$submenu-width: 200px;
+$bp1c: $padding+$content-width-1c+$padding;
+$bp2c: $padding+$content-width-2c+$padding+$sb-width+$padding;
+html {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+:focus {
+    outline: none
+}
+
+body {
+    overflow-x: hidden;
+    margin: 0;
+    background: $body-bg-color;
+    line-height: 1.618em; // font-family: "Arial Narrow", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    // font-stretch: condensed;
+    font-family: "Times New Roman", Georgia, 'Old Standard TT';
+    word-wrap: break-word;
+    word-break: normal;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    // font-family: "Times New Roman", Times, serif;
+    line-height: 1.2;
+    font-weight: normal;
+}
+
+// blank is not supported by any browser as of now. Use blank for future, retain empty for now.
+a:blank,
+a:empty,
+p:blank,
+p:empty {
+    display: none;
+    margin: 0;
+    padding: 0;
+    margin: 0;
+    padding: 0;
+    line-height: 0;
+}
+
+ul {
+    list-style: square;
+    ul {
+        list-style: disc;
+        ul {
+            list-style: circle;
+        }
+    }
+}
+
+ol {
+    ol {
+        list-style: lower-alpha;
+        ol {
+            list-style: lower-roman;
+        }
+    }
+}
+
+ul ul,
+ol ol,
+ul ol,
+ol ul {
+    margin-bottom: 0;
+}
+
+li {
+    width: auto; // this should go in the core. Make LIs take the width of the UL / OL. Without this they display like table and wrap mid-way.
+}
+
+:link,
+input,
+textarea,
+select,
+button,
+.sub-menu {
+    transition: all 0.4s;
+}
+
+.drop_cap {
+    float: left;
+    font-size: 3.25em;
+    line-height: 0.75em;
+    padding: 0.08em 0.12em 0 0;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    margin-bottom: 1.618em
+}
+
+caption {
+    margin: 0 0 5px;
+    font-variant: small-caps;
+}
+
+tr {
+    border-bottom: 1px dotted;
+}
+
+thead {
+    border-bottom: 1px solid;
+}
+
+tr:last-child {
+    border: none;
+}
+
+tfoot {
+    border-top: 1px solid;
+}
+
+th,
+td {
+    padding: 10px;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+th {
+    font-size: 0.8125rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+th,
+td {
+    border: 1px dotted;
+}
+
+th:blank,
+td:blank,
+th.pad,
+td.pad {
+    opacity: 0;
+}
+
+hr {
+    height: 1px;
+    background: #000;
+    border: none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+:link {
+    text-decoration: none;
+    color: $link-color;
+}
+
+:visited {
+    color: lighten($link-color, 25%);
+}
+
+:link:hover,
+ :visited:hover {
+    text-decoration: underline;
+    color: $link-hover-color;
+}
+
+
+/* === Code and Preformatted text === */
+
+code,
+kbd,
+samp {
+    font-size: 0.8em;
+    color: $highlight;
+}
+
+pre {
+    font-size: 0.8em;
+    overflow: auto;
+}
+
+pre {
+    code,
+    kbd,
+    samp {
+        font-size: 1em;
+        color: inherit;
+    }
+}
+
+input:focus::-webkit-input-placeholder {
+    color: transparent;
+}
+
+input:focus:-moz-placeholder {
+    color: transparent;
+}
+
+
+/* Firefox 18- */
+
+input:focus::-moz-placeholder {
+    color: transparent;
+}
+
+
+/* Firefox 19+ */
+
+input:focus:-ms-input-placeholder {
+    color: transparent;
+}
+
+
+/* oldIE ;) */
+
+input,
+button,
+select,
+textarea {
+    font-family: inherit;
+    font-size: 1em;
+    max-width: 100%;
+}
+
+
+/* Data entry */
+
+input,
+textarea {
+    border: 1px solid #aaa;
+    padding: 0.618em 1em;
+    width: 100%;
+}
+
+input,
+.button {
+    padding: 0.382em 0.618em;
+}
+
+input:focus,
+textarea:focus {
+    border-color: $highlight;
+}
+
+
+/* Submit */
+
+input[type="submit"],
+input[type="reset"],
+button,
+.button {
+    width: auto;
+    font-weight: bolder;
+    font-variant: small-caps;
+    text-transform: capitalize;
+    border: 3px double #aaa;
+    background: #eee linear-gradient(0deg, #ddd, #eee);
+    &:hover {
+        background: #ddd linear-gradient(0deg, #ccc, #eee);
+    }
+}
+
+
+/* === END Code and Preformatted text === */
+
+
+/* === WP Styles === */
+
+.site-title {
+    margin: 0;
+    line-height: 1;
+}
+
+.site-title :link,
+.site-title :visited {
+    text-decoration: none;
+    color: inherit;
+    &:hover {
+        text-decoration: none;
+    }
+}
+
+.site-description {
+    margin: 1em 0 0;
+    line-height: 1.2;
+    font-size: 1em;
+    font-weight: normal;
+}
+
+.header,
+.footer {
+    text-align: center;
+}
+
+
+/* === Alignement (WP classes) === */
+
+.alignleft {
+    display: block;
+    margin: 0 1.618em 1.618em 0;
+    float: left;
+}
+
+.alignright {
+    display: block;
+    margin: 0 0 1.618em 1.618em;
+    float: right;
+}
+
+.aligncenter {
+    display: block;
+    margin: 0 auto 1.618em;
+}
+
+p .aligncenter,
+p .alignright,
+p .alignleft {
+    margin-bottom: 0;
+}
+
+.alignnone {
+    float: none;
+    margin-left: unset;
+    margin-right: unset;
+}
+
+img.alignleft,
+img.alignright {
+    display: inline;
+}
+
+.clear {
+    clear: both;
+}
+
+blockquote {
+    position: relative;
+}
+
+blockquote:before {
+    content: "\201C";
+    font-size: 2em;
+    position: absolute;
+    left: -0.618em;
+}
+
+blockquote:after {
+    content: no-close-quote;
+    opacity: .5;
+}
+
+blockquote:before {}
+
+blockquote.alignleft,
+blockquote.alignright {
+    width: 33%;
+}
+
+.wp-audio-shortcode,
+.wp-video-shortcode,
+audio,
+video,
+object,
+embed,
+iframe {
+    max-width: 100%;
+    margin-bottom: 1.618em; // Need to verify this. If the element is wrapped in P tags, this inserts extra margin in addition to the default margin of the p tag.
+}
+
+.wp-audio-shortcode,
+.wp-video-shortcode,
+audio,
+video {
+    display: block;
+}
+
+.show-if-js {
+    display: none;
+}
+
+.screen-reader-text,
+.assistive-text {
+    position: absolute;
+    top: -9999em;
+    left: -9999em;
+}
+
+
+/* === Captions === */
+
+.wp-caption {
+    max-width: 100%;
+}
+
+.wp-caption-text {
+    text-align: center;
+}
+
+
+/* === Gallery === */
+
+.gallery {
+    display: block;
+    text-align: center;
+    margin-bottom: 1.618em;
+}
+
+
+/* === Posts === */
+
+.entry-title,
+.archive-title {
+    margin-top: 0;
+}
+
+.archive-header {
+  padding-bottom: 1em;
+    margin-bottom: 1em;
+    border-bottom: 1px solid;
+}
+
+.archive-title {
+  font-weight: bolder;
+  font-variant: small-caps;
+  font-size:2.618em;
+  margin-bottom: 0;
+}
+
+.archive-description {
+  margin-top: 1em;
+  margin-bottom: 0;
+}
+
+.entry-title {
+    margin-bottom: 0;
+}
+
+.entry-title :hover {
+    text-decoration: none;
+}
+
+.sticky .entry-title {
+    position: relative;
+    margin-left: 1em;
+}
+
+.sticky .entry-title:before {
+    content: "\A";
+    border-style: solid;
+    border-width: 1em 1em 1em 0;
+    border-color: $highlight transparent transparent transparent;
+    position: absolute;
+    left: -1.618em;
+}
+
+.entry-byline {
+    margin-top: 0;
+}
+
+.entry {
+    padding-bottom: .5em;
+    border-bottom: 1px solid;
+    margin-bottom: calc(2.618em / 2);
+    overflow-x: hidden;
+}
+
+/*=== Comments ==*/
+
+.comment-list {
+    list-style: none;
+    padding: 0;
+}
+
+.comment article,
+.pingback article {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: no-wrap;
+}
+
+.comment-content {
+    // min-width: 320px; // Min width for comment content. Beyond this the gravtar will reflow and wrap below the comment content
+    max-width: 85%;
+}
+
+.comment footer,
+.pingback footer {
+    font-size: .8em;
+    max-width: calc(15% - 1em);
+    margin-left: 1em;
+}
+
+.comment footer details summary,
+.pingback footer details summary {
+    text-transform: lowercase;
+    font-variant: small-caps;
+}
+
+.comment-list .children {
+    list-style: none;
+}
+
+.comment article,
+.pingback {
+    padding-bottom: calc(1.618em / 2);
+    border-bottom: 1px dotted;
+    margin-bottom: calc(1.618em / 2);
+    border-bottom-left-radius: 5px;
+}
+
+.children .comment article {
+    margin-top: calc( calc(-1.618em / 2) - 1px);
+    border-top: 1px solid #fff;
+}
+
+.children>.comment article {
+    border-left: 1px dotted;
+    padding-left: 40px;
+}
+
+/*=== Pagination ==*/
+.nav-links {
+
+  text-transform: uppercase;
+
+  :link, :visited, .current {
+
+    color: #fff;
+    display: inline-block;
+    background: $link-color;
+    padding: 0.381em 0.618em;
+    line-height: 1;
+
+    &:hover {
+      color: $link-hover-color;
+      text-decoration: none;
+      background: transparent;
+    }
+  }
+
+
+  .current:before {
+    border-top: 5px solid #fff;
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+    content: "";
+    text-align: center;
+    display: block;
+    width: 0px;
+    height: 0px;
+    margin: 0px auto 0px;
+
+  }
+
+  .dots {
+
+    background-color: transparent;
+
+    &:hover {
+      background-color: transparent;
+      color: $link-color;
+    }
+  }
+}
+
+
+
+/*=== Widgets ===*/
+
+.widget-title {
+    margin-top: 0;
+    margin-bottom: .5em;
+    font-size: 1em;
+}
+
+.widget {
+    margin-bottom: 1.618em;
+    // line-height: 1.2em;
+}
+
+.widget ol,
+.widget ul {
+    margin: 0;
+    padding: 0 0 0 1.618em;
+}
+
+.widget_calendar {
+    th,
+    td {
+        text-align: center;
+    }
+}
+
+.search-submit {
+  margin-top: 0.618em;
+}
+
+/*=== Layout ==*/
+
+.entry-content:after,
+.comment-content:after,
+.clear {
+    content: "";
+    display: table;
+    clear: both; // display: flow-root; // can be used in the future.
+}
+
+#lander-breadcrumbs {
+    width: 100%;
+    margin-top: 0;
+}
+
+.wrap {
+    // background: $body-bg-color; // by default on mobile-first, the wrap bg should be body bg
+    background: $wrap-bg-color;
+    padding: 1.618em;
+}
+
+
+
+/*=== Default desktop horizontal menu ==*/
+
+#menu-primary-items {
+    position: relative;
+    padding: 0;
+    margin: 0 -1em;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+    li {
+        display: block;
+        position: relative;
+    }
+     :link,
+     :visited {
+        color: inherit;
+    }
+     :link:hover,
+     :visited:hover {
+        text-decoration: none;
+        background-color: $highlight;
+        color: #fff;
+    }
+    /*.sub-menu {
+         :link:hover,
+         :visited:hover {
+            background-color: $highlight;
+            color: #fff;
+        }
+    }*/
+    a {
+        display: block;
+        padding: 0.382em 1em;
+    }
+    a:blank {
+        display: none;
+    } // .menu-items > li:first-child > a {}
+    // .menu-items > li:last-child > a {}
+    .menu-item-has-children .sub-menu {
+        opacity: 0;
+        visibility: hidden;
+        position: absolute;
+        width: $submenu-width;
+        z-index: 1; //top: 33px;
+        // top: calc(0.618em + 1em + 0.618em); // Uncomment this if sub-menu is vertically mis-aligned
+        // top: calc(0.382em + 1em + 0.382em); // Uncomment this if sub-menu is vertically mis-aligned
+        background-color: #fff;
+        box-shadow: 0px 2px 2px rgba(0, 0, 0, .25);
+        a {}
+        li {
+            display: block;
+        }
+    } // must have else menu fluctuates when hovering out
+    .menu-item-has-children .sub-menu .sub-menu {
+        top: 0px;
+    }
+    .menu-item-has-children:hover>.sub-menu {
+        visibility: visible;
+        opacity: 1;
+        margin-left: 0px;
+        margin-top: 0px;
+        .sub-menu {
+            top: 0px;
+            left: $submenu-width;
+        }
+    }
+}
+
+#menu-footer-items {
+    display: table;
+    list-style: none;
+    margin: 0 auto;
+    padding: 0;
+    li {
+        display: inline-block;
+        margin: 0 .5em;
+    }
+}
+
+.site-container {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.site-footer {
+    text-align: center;
+}
+
+/*
+.layout-1c {
+    @media screen and (min-width: $bp1c) {
+        .wrap {
+            margin: auto; // width: $bp1;
+            max-width: $bp1c;
+        }
+    }
+}
+
+.inner .wrap {
+    // display: flex;
+    // flex-flow: row wrap;
+    // justify-content: space-between;
+}
+
+.content {
+    // width: $content-width;
+}
+
+// 2 col layout
+
+.layout-2c-l {
+    @media screen and (min-width: $bp2c) {
+        .header, .footer {
+            text-align: left;
+        }
+        .wrap {
+            margin: auto;
+            width: $bp2c;
+        }
+        .inner .wrap {
+            display: flex;
+            flex-flow: row wrap;
+            justify-content: space-between;
+        }
+        .content {
+            width: $content-width-2c;
+        }
+        .sidebar-primary {
+            width: $sb-width;
+        }
+    }
+}
+*/
+
+/* ### Column Classes */
+
+
+/* these are not desktop first */
+
+@media (min-width: 481px) {
+    .five-sixths,
+    .four-sixths,
+    .one-fourth,
+    .one-half,
+    .one-sixth,
+    .one-third,
+    .three-fourths,
+    .three-sixths,
+    .two-fourths,
+    .two-sixths,
+    .two-thirds {
+        float: left;
+        margin-left: 2.564102564102564%;
+    }
+    .one-half,
+    .three-sixths,
+    .two-fourths {
+        width: 48.717948717948715%;
+    }
+    .one-third,
+    .two-sixths {
+        width: 31.623931623931625%;
+    }
+    .four-sixths,
+    .two-thirds {
+        width: 65.81196581196582%;
+    }
+    .one-fourth {
+        width: 23.076923076923077%;
+    }
+    .three-fourths {
+        width: 74.35897435897436%;
+    }
+    .one-sixth {
+        width: 14.52991452991453%;
+    }
+    .five-sixths {
+        width: 82.90598290598291%;
+    }
+    .first {
+        clear: both;
+        margin-left: 0;
+    }
+}
