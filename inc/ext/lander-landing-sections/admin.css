@@ -1,12 +1,13 @@
 @charset "utf-8";
 
-#lander-landing-sections-editors {
+/*#lander-landing-sections-editors {
 	background-color: #eee;
 	padding: 0.618em 1.2em;
 	margin-top: 2em;
 	margin-bottom: 2em;
 	border: 1px solid #ccc;
 }
+*/
 #lander-landing-sections-editors .section-title {
 	margin-bottom: 1em;
 }
