@@ -61,6 +61,9 @@ function lander_setup() {
 
 	add_theme_support( 'custom-logo' );
 
+    // All BinaryTurf themes are woocommerce compatible. Keep it so!
+    // add_theme_support( 'woocommerce' );
+
 	// Post formats.
 	add_theme_support( 'post-formats', array( 'aside', 'audio', 'chat', 'image', 'gallery', 'link', 'quote', 'status', 'video' ) );
 

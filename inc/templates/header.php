@@ -82,9 +82,6 @@ function lander_layout_css() {
 }
 */
 
-.sidebar {
-    background-color: #eee;
-}
 
 @media screen and (min-width: 48em) {   /* 16px * 48em = 768px */
     .site-container {

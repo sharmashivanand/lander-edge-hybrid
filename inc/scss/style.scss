@@ -18,19 +18,11 @@ html{line-height:1.15;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}bo
 
 /* === Stylesheet === */
 
-$body-bg-color: #282828;
-$body-bg-color: #cccdce;
-$wrap-bg-color: #fff;
-$highlight: #2d62a3;
-$link-color: $highlight;
+$link-color: #080;
 $link-hover-color: darken($link-color, 5%);
-$content-width-1c: 720px;
-$content-width-2c: 720px;
-$padding: 35px;
-$sb-width: 300px;
+
 $submenu-width: 200px;
-$bp1c: $padding+$content-width-1c+$padding;
-$bp2c: $padding+$content-width-2c+$padding+$sb-width+$padding;
+
 html {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -50,7 +42,6 @@ html {
 body {
     overflow-x: hidden;
     margin: 0;
-    background: $body-bg-color;
     line-height: 1.618em; // font-family: "Arial Narrow", "Helvetica Neue", Helvetica, Arial, sans-serif;
     // font-stretch: condensed;
     font-family: "Times New Roman", Georgia, 'Old Standard TT';
@@ -214,7 +205,7 @@ code,
 kbd,
 samp {
     font-size: 0.8em;
-    color: $highlight;
+    color: $link-color;
 }
 
 pre {
@@ -282,7 +273,7 @@ input,
 
 input:focus,
 textarea:focus {
-    border-color: $highlight;
+    border-color: $link-color;
 }
 
 
@@ -491,7 +482,7 @@ video {
     content: "\A";
     border-style: solid;
     border-width: 1em 1em 1em 0;
-    border-color: $highlight transparent transparent transparent;
+    border-color: $link-color transparent transparent transparent;
     position: absolute;
     left: -1.618em;
 }
@@ -655,8 +646,8 @@ video {
 }
 
 .wrap {
-    // background: $body-bg-color; // by default on mobile-first, the wrap bg should be body bg
-    background: $wrap-bg-color;
+
+
     padding: 1.618em;
 }
 
@@ -687,13 +678,13 @@ video {
      :link:hover,
      :visited:hover {
         text-decoration: none;
-        background-color: $highlight;
+        background-color: $link-color;
         color: #fff;
     }
     /*.sub-menu {
          :link:hover,
          :visited:hover {
-            background-color: $highlight;
+            background-color: $link-color;
             color: #fff;
         }
     }*/
@@ -754,52 +745,6 @@ video {
 .site-footer {
     text-align: center;
 }
-
-/*
-.layout-1c {
-    @media screen and (min-width: $bp1c) {
-        .wrap {
-            margin: auto; // width: $bp1;
-            max-width: $bp1c;
-        }
-    }
-}
-
-.inner .wrap {
-    // display: flex;
-    // flex-flow: row wrap;
-    // justify-content: space-between;
-}
-
-.content {
-    // width: $content-width;
-}
-
-// 2 col layout
-
-.layout-2c-l {
-    @media screen and (min-width: $bp2c) {
-        .header, .footer {
-            text-align: left;
-        }
-        .wrap {
-            margin: auto;
-            width: $bp2c;
-        }
-        .inner .wrap {
-            display: flex;
-            flex-flow: row wrap;
-            justify-content: space-between;
-        }
-        .content {
-            width: $content-width-2c;
-        }
-        .sidebar-primary {
-            width: $sb-width;
-        }
-    }
-}
-*/
 
 /* ### Column Classes */
 

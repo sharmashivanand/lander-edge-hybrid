@@ -22,6 +22,11 @@ function lander_setup_comments() {
 
 
 function lander_do_comments(){
+    /*
+    if( ! get_theme_mod(get_post_type(). '_comments') ) {
+        return;
+    }
+    */
     if ( post_password_required() ) {
         return;
     }
