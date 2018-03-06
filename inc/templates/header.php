@@ -1,6 +1,5 @@
 <?php
 
-
 add_action('lander_head','lander_build_head');
 //add_action('lander_header','lander_header_open', 5);
 add_action('lander_header','lander_header');
@@ -38,7 +37,6 @@ function lander_header() {
         )
     );
 
-
     lander_markup(
         array(
             'open' => '<div %s>',
@@ -55,7 +53,6 @@ function lander_header() {
             'slug' => 'branding'
         )
     );
-
    
     lander_markup(
         array(
@@ -70,6 +67,7 @@ add_action('wp_head' , 'lander_layout_css');
 function lander_layout_css() {
     ?>
 <style type="text/css">
+
 /*
 .wrap {
     background-color: #ff0;
@@ -82,8 +80,7 @@ function lander_layout_css() {
 }
 */
 
-
-@media screen and (min-width: 48em) {   /* 16px * 48em = 768px */
+@media screen and ( min-width: 48em ) {   /* single col wide space is now available. 3em + 42em + 3em = 48em = 768px i.e. 16px * 48em */
     .site-container {
         margin: 1.618em auto;
     }
@@ -92,8 +89,13 @@ function lander_layout_css() {
         margin: auto;
         max-width: 48em; 
         padding: calc(1.618em / 2) 3em;
-        /* 48em - 6em = 40em = 672px */
+        /* 48em - 6em = 42em = 672px; ideal for 16px font size at golden ratio typography */
     }
+
+    .content {
+            max-width: 42em;
+            /* 16 * 42em = 672px */
+        }
 
     .site-header .wrap {
         padding-top: 3em;
@@ -107,49 +109,132 @@ function lander_layout_css() {
     }
 }
 
-/*
-width is inclusive of padding
-required break point : padding + content-width + padding + sidebar-width + padding
-Given that we want to retain golden-ratio typography,
-    content
-        font-size: 16px
-        line-height: 1.618
-        => width ~= 670.188544px  ~= 672px (42em)
+/* When using 3 columns, we'll use smaller sidebars. Thus a smaller breakpoint (66.75em) */
+@media screen and ( min-width: 66.75em ) { /* Space is now available for primary sidebar. calc ( 3em + 42em + 3em + 15.75em + 3em ) */
 
-Since sidebar is not the main content and it's not ideal to even give a golden-ratio width, let's keep it at rule-of-thirds
-
-    This translates into a width of px
-    = 3em + 42em + 3em + 26em + 3em
-    = 77em = 
-*/
-
-@media screen and ( min-width: 72em ) { /* 3em + 42em + 3em + 21em + 3em = 1152px */
-    .layout-2c-l .wrap {
-        max-width: 72em; /* 16 * 72 = 1152px */
-        /*
-        since we have 9em padding, available width for content + padding + sb:
-            = 72em - 9em = 63em = 1008px 
-        */
+    .layout-3c-l .inner .wrap,
+    .layout-3c-c .inner .wrap,
+    .layout-3c-r .inner .wrap {
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-between;
     }
     
+    .layout-3c-l .wrap,
+    .layout-3c-c .wrap,
+    .layout-3c-r .wrap {
+        width: 66.75em;
+        max-width: 66.75em;
+    }
+
+    .layout-3c-l .sidebar-primary,
+    .layout-3c-c .sidebar-primary,
+    .layout-3c-r .sidebar-primary {
+        font-size: 0.875em; /* 14px */
+        line-height: 1.5em; /* force wrt the new font-size */
+        width: 18em; /* 14px * 18em = 252. Point of confusion: 15.75 at 16px is still 252px and that's how the breakpoint is calculated */
+        max-width: 18em; /* 14px * 18em = 252. Point of confusion: 15.75 at 16px is still 252px and that's how the breakpoint is calculated */
+    }
+
+    .layout-3c-l .sidebar-secondary,
+    .layout-3c-c .sidebar-secondary,
+    .layout-3c-r .sidebar-secondary {
+        width: 100%;
+    }
+
+    .layout-3c-c .content {
+        order: 1;
+    }
+    
+    .layout-3c-c .sidebar-primary {
+        order: 0;
+    }
+    
+    .layout-3c-c .sidebar-secondary {
+        order: 2;
+    }
+    
+    /* At 2 col break point, keep the alt sidebar after everything */
+    .layout-3c-r .content {
+        order: 1;
+    }
+    
+    .layout-3c-r .sidebar-primary {
+        order: 0;
+    }
+
+    .layout-3c-r .sidebar-secondary {
+        order: 2;
+    }
+    
+}
+
+@media screen and ( min-width: 72em ) { /* Two column wide space is now available. 3em + 42em + 3em + 21em + 3em = 72em = 1152px i.e. 72em * 16px */
+    
+    /* Now all we got to worry about is to increase the wrap width so that sidebar can fall in place */
+    .layout-2c-l .wrap,
+    .layout-2c-r .wrap {
+        width: 72em;
+        max-width: 72em;
+    }
+    
+    .layout-2c-r .inner .wrap,
     .layout-2c-l .inner .wrap {
         display: flex;
         flex-flow: row wrap;
         justify-content: space-between;
     }
 
-    .layout-2c-l .content {
-        max-width: 42em;
-        /* 16 * 42em = 672px */
-    }
-
-    /* Width available for sidebar 416px ( 26em ) = 416px */
+    .layout-2c-r .sidebar-primary,
     .layout-2c-l .sidebar-primary {
         font-size: 0.875em; /* 14px */
         line-height: 1.5em; /* force wrt the new font-size */
-        max-width: 24em; /* 14px * 24em = 336 */
+        width: 24em; /* 14px * 24em = 336. Point of confusion: 21em at 16px is still 336px and that's how the breakpoint is calculated */
+        max-width: 24em; /* 14px * 24em = 336. Point of confusion: 21em at 16px is still 336px and that's how the breakpoint is calculated */
     }
+
+    .layout-2c-r .content {
+        order: 1;
+    }
+
+    .layout-2c-r .sidebar-primary {
+        order: 0;
+    }
+
 }
+
+@media screen and ( min-width: 85.5em ) { /* Space is now available for secondary sidebar. calc ( 3em + 42em + 3em + 15.75em + 3em + 15.75em + 3em ) */
+
+    .layout-3c-l .wrap,
+    .layout-3c-c .wrap,
+    .layout-3c-r .wrap {
+        width: 85.5em;
+        max-width: 85.5em;
+    }
+
+    .layout-3c-l .sidebar-secondary,
+    .layout-3c-c .sidebar-secondary,
+    .layout-3c-r .sidebar-secondary {
+        font-size: 0.875em; /* 14px */
+        line-height: 1.5em; /* force wrt the new font-size */
+        width: 18em; /* 14px * 18em = 252. Point of confusion: 15.75 at 16px is still 252px and that's how the breakpoint is calculated */
+        max-width: 18em; /* 14px * 18em = 252. Point of confusion: 15.75 at 16px is still 252px and that's how the breakpoint is calculated */
+    }
+
+    .layout-3c-r .content {
+        order: 2;
+    }
+    
+    .layout-3c-r .sidebar-primary {
+        order: 0;
+    }
+
+    .layout-3c-r .sidebar-secondary {
+        order: 1;
+    }
+
+}
+
 </style>
     <?php
 }

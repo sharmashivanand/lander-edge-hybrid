@@ -1,8 +1,8 @@
 <?php
 
-add_action('lander_after_content', 'lander_primary_sidebar');
+//add_action('lander_after_content', 'lander_primary_sidebar');
 
-
+/*
 function lander_primary_sidebar(){
 
     if ( '1c' !== hybrid_get_theme_layout() ) {
@@ -52,3 +52,5 @@ function lander_do_sidebar(){
     }
     
 }
+*/
+

@@ -181,13 +181,19 @@ function lander_layout_wrap_close(){
 
 add_action('lander_after_content', 'lander_do_primary_sidebar');
 
-
 function lander_do_primary_sidebar() {
     if ( '1c' !== hybrid_get_theme_layout() ) {
         hybrid_get_sidebar( 'primary' );
     }
 }
 
+add_action('lander_after_content', 'lander_do_secondary_sidebar');
+
+function lander_do_secondary_sidebar() {
+    if ( '3c-c' == hybrid_get_theme_layout() || '3c-l' == hybrid_get_theme_layout() || '3c-r' == hybrid_get_theme_layout() ) {
+        hybrid_get_sidebar( 'secondary' );
+    }
+}
 add_action('lander_sidebar','lander_do_primary_widgets');
 
 function lander_do_primary_widgets(){
@@ -203,6 +209,34 @@ function lander_do_primary_widgets(){
                 'title'  => __( 'Example Widget', 'lander' ),
                 // Translators: The %s are placeholders for HTML, so the order can't be changed.
                 'text'   => sprintf( __( 'This is an example widget to show how the Primary sidebar looks by default. You can add custom widgets from the %swidgets screen%s in the admin.', 'lander' ), current_user_can( 'edit_theme_options' ) ? '<a href="' . admin_url( 'widgets.php' ) . '">' : '', current_user_can( 'edit_theme_options' ) ? '</a>' : '' ),
+                'filter' => true,
+            ),
+            array(
+                'before_widget' => '<section class="widget widget_text">',
+                'after_widget'  => '</section>',
+                'before_title'  => '<h3 class="widget-title">',
+                'after_title'   => '</h3>'
+            )
+        ); 
+    }
+    
+}
+
+add_action('lander_sidebar_alt','lander_do_secondary_widgets');
+
+function lander_do_secondary_widgets(){
+
+    if ( is_active_sidebar( 'secondary' ) )  {
+        dynamic_sidebar( 'secondary' ); 
+    }
+    else {
+
+        the_widget(
+            'WP_Widget_Text',
+            array(
+                'title'  => __( 'Example Widget', 'lander' ),
+                // Translators: The %s are placeholders for HTML, so the order can't be changed.
+                'text'   => sprintf( __( 'This is an example widget to show how the Secondary sidebar looks by default. You can add custom widgets from the %swidgets screen%s in the admin.', 'lander' ), current_user_can( 'edit_theme_options' ) ? '<a href="' . admin_url( 'widgets.php' ) . '">' : '', current_user_can( 'edit_theme_options' ) ? '</a>' : '' ),
                 'filter' => true,
             ),
             array(

@@ -122,6 +122,30 @@ function lander_register_layouts() {
 			'image' => '%s/images/layouts/2c-l.png',
 		)
 	);
+	hybrid_register_layout(
+		'2c-r', array(
+			'label' => esc_html__( '2 Columns: Sidebar / Content', 'lander' ),
+			'image' => '%s/images/layouts/2c-r.png',
+		)
+	);
+	hybrid_register_layout(
+		'3c-l', array(
+			'label' => esc_html__( '3 Columns: Content / Sidebar / Sidebar', 'lander' ),
+			'image' => '%s/images/layouts/3c-l.png',
+		)
+	);
+	hybrid_register_layout(
+		'3c-c', array(
+			'label' => esc_html__( '3 Columns: Sidebar / Content / Sidebar', 'lander' ),
+			'image' => '%s/images/layouts/3c-c.png',
+		)
+	);
+	hybrid_register_layout(
+		'3c-r', array(
+			'label' => esc_html__( '3 Columns: Sidebar / Sidebar / Content', 'lander' ),
+			'image' => '%s/images/layouts/3c-r.png',
+		)
+	);
 	// hybrid_register_layout( '2c-r', array( 'label' => esc_html__( '2 Columns: Sidebar / Content', 'lander' ), 'image' => '%s/images/layouts/2c-r.png' ) );
 }
 
@@ -131,10 +155,18 @@ function lander_register_sidebars() {
 		array(
 			'id'          => 'primary',
 			'name'        => esc_html_x( 'Primary', 'sidebar', 'lander' ),
-			'description' => esc_html__( 'Add sidebar description.', 'lander' ),
+			'description' => esc_html__( 'This is the primary sidebar.', 'lander' ),
 		)
-	);
-
+    );
+    
+	hybrid_register_sidebar(
+		array(
+			'id'          => 'secondary',
+			'name'        => esc_html_x( 'Secondary', 'sidebar', 'lander' ),
+			'description' => esc_html__( 'This is the secondary sidebar.', 'lander' ),
+		)
+    );
+    
 }
 
 
