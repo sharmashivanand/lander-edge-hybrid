@@ -263,7 +263,7 @@ function lander_breadcrumbs(){
         yoast_breadcrumb('<p id="lander-breadcrumbs">','</p>');
     }
     if( function_exists('bcn_display')) {     
-        echo '<p id="lander-breadcrumbs" typeof="BreadcrumbList" vocab="https://schema.org/">';
+        echo '<p id="lander-breadcrumbs" itemscope itemtype="http://schema.org/BreadcrumbList">';
         bcn_display();
         echo '</p>';
     }

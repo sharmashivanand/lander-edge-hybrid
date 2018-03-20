@@ -61,6 +61,9 @@ function lander_setup() {
 
 	add_theme_support( 'custom-logo' );
 
+	# Add the default emoji styles since HC doesn't do it by default
+	add_action( 'wp_print_styles', 'print_emoji_styles' );
+
     // All BinaryTurf themes are woocommerce compatible. Keep it so!
     // add_theme_support( 'woocommerce' );
 
@@ -113,37 +116,37 @@ function lander_register_layouts() {
 	hybrid_register_layout(
 		'1c', array(
 			'label' => esc_html__( '1 Column', 'lander' ),
-			'image' => '%s/images/layouts/1c.png',
+			'image' => '%s/images/layouts/1c.svg',
 		)
 	);
 	hybrid_register_layout(
 		'2c-l', array(
 			'label' => esc_html__( '2 Columns: Content / Sidebar', 'lander' ),
-			'image' => '%s/images/layouts/2c-l.png',
+			'image' => '%s/images/layouts/2c-l.svg',
 		)
 	);
 	hybrid_register_layout(
 		'2c-r', array(
 			'label' => esc_html__( '2 Columns: Sidebar / Content', 'lander' ),
-			'image' => '%s/images/layouts/2c-r.png',
+			'image' => '%s/images/layouts/2c-r.svg',
 		)
 	);
 	hybrid_register_layout(
 		'3c-l', array(
 			'label' => esc_html__( '3 Columns: Content / Sidebar / Sidebar', 'lander' ),
-			'image' => '%s/images/layouts/3c-l.png',
+			'image' => '%s/images/layouts/3c-l.svg',
 		)
 	);
 	hybrid_register_layout(
 		'3c-c', array(
 			'label' => esc_html__( '3 Columns: Sidebar / Content / Sidebar', 'lander' ),
-			'image' => '%s/images/layouts/3c-c.png',
+			'image' => '%s/images/layouts/3c-c.svg',
 		)
 	);
 	hybrid_register_layout(
 		'3c-r', array(
 			'label' => esc_html__( '3 Columns: Sidebar / Sidebar / Content', 'lander' ),
-			'image' => '%s/images/layouts/3c-r.png',
+			'image' => '%s/images/layouts/3c-r.svg',
 		)
 	);
 	// hybrid_register_layout( '2c-r', array( 'label' => esc_html__( '2 Columns: Sidebar / Content', 'lander' ), 'image' => '%s/images/layouts/2c-r.png' ) );
@@ -164,6 +167,14 @@ function lander_register_sidebars() {
 			'id'          => 'secondary',
 			'name'        => esc_html_x( 'Secondary', 'sidebar', 'lander' ),
 			'description' => esc_html__( 'This is the secondary sidebar.', 'lander' ),
+		)
+    );
+
+    hybrid_register_sidebar(
+		array(
+			'id'          => 'afterentry',
+			'name'        => esc_html_x( 'After Entry', 'sidebar', 'lander' ),
+			'description' => esc_html__( 'This widget area shows up below singular content.', 'lander' ),
 		)
     );
     

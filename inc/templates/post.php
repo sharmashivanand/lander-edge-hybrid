@@ -136,51 +136,52 @@ function lander_post_header( $type, $format ) {
 		the_title( '<h1 ' . hybrid_get_attr( 'entry-title' ) . '><a href="' . get_permalink() . '" rel="bookmark" itemprop="url">', '</a></h1>' );
 	}
 	?>
-		
-	<?php
-	if ( is_page() ) {
-	?>
-	<p class="entry-byline">
-		<span <?php hybrid_attr( 'entry-author' ); ?>>
-			<meta itemprop="name" content="<?php echo get_author_posts_url( get_the_author_meta( 'nicename' ) ); ?>" />
-			<meta itemprop="url" content="<?php echo get_author_posts_url( get_the_author_meta( 'ID' ) ); ?>" />
-		</span>
-		<meta <?php hybrid_attr( 'entry-published' ); ?> content="<?php echo get_the_date(); ?>" />
-		<meta itemprop="dateModified" content="<?php echo get_the_modified_date(); ?>" />
-		<?php
-		if ( post_type_supports( $type, 'comments' ) && ( have_comments() || comments_open() || pings_open() ) ) {
-			comments_popup_link( 'Comment Now', 'Comment', '% Comments', 'comments-link', '' ); }
-			?>
-		<?php
-		if ( $format ) {
-			hybrid_post_format_link();}
-?>
-		<?php edit_post_link(); ?>
-	</p><!-- .entry-byline -->
-	<?php
-	} else {
-		?>
-		<p class="entry-byline">
-		<span <?php hybrid_attr( 'entry-author' ); ?>><?php the_author_posts_link(); ?></span>
-		<time <?php hybrid_attr( 'entry-published' ); ?>><?php echo get_the_date(); ?></time>
-		<meta itemprop="dateModified" content="<?php echo get_the_modified_date(); ?>" />
-		<?php
-		if ( post_type_supports( $type, 'comments' ) && ( have_comments() || comments_open() || pings_open() ) ) {
-			comments_popup_link( 'Comment Now', 'Comment', '% Comments', 'comments-link', '' ); }
-			?>
-		<?php
-		if ( $format ) {
-			hybrid_post_format_link();}
-?>
-		<?php edit_post_link(); ?>
-	</p><!-- .entry-byline -->
-		<?php
-	}
-	?>
-			</header><!-- .entry-header -->
+	</header><!-- .entry-header -->
 	<?php
 }
 
+
+function lander_post_byline(){
+    if ( is_page() ) {
+        ?>
+        <p class="entry-byline">
+            <span <?php hybrid_attr( 'entry-author' ); ?>>
+                <meta itemprop="name" content="<?php echo get_author_posts_url( get_the_author_meta( 'nicename' ) ); ?>" />
+                <meta itemprop="url" content="<?php echo get_author_posts_url( get_the_author_meta( 'ID' ) ); ?>" />
+            </span>
+            <meta <?php hybrid_attr( 'entry-published' ); ?> content="<?php echo get_the_date(); ?>" />
+            <meta itemprop="dateModified" content="<?php echo get_the_modified_date(); ?>" />
+            <?php
+            if ( post_type_supports( $type, 'comments' ) && ( have_comments() || comments_open() || pings_open() ) ) {
+                comments_popup_link( 'Comment Now', 'Comment', '% Comments', 'comments-link', '' ); }
+                ?>
+            <?php
+            if ( $format ) {
+                hybrid_post_format_link();
+            }
+            edit_post_link(); ?>
+        </p><!-- .entry-byline -->
+        <?php
+    } 
+    else {
+        ?>
+        <p class="entry-byline">
+        <span <?php hybrid_attr( 'entry-author' ); ?>><?php the_author_posts_link(); ?></span>
+        <time <?php hybrid_attr( 'entry-published' ); ?>><?php echo get_the_date(); ?></time>
+        <meta itemprop="dateModified" content="<?php echo get_the_modified_date(); ?>" />
+        <?php
+        if ( post_type_supports( $type, 'comments' ) && ( have_comments() || comments_open() || pings_open() ) ) {
+            comments_popup_link( 'Comment Now', 'Comment', '% Comments', 'comments-link', '' ); }
+            ?>
+        <?php
+        if ( $format ) {
+            hybrid_post_format_link();
+        }
+    edit_post_link(); ?>
+    </p><!-- .entry-byline -->
+        <?php
+    }
+}
 /**
  * Recursively print all meta properties of an attachment
  *
@@ -306,6 +307,7 @@ function lander_post_content( $type, $format ) {
 }
 
 function lander_post_footer( $type, $format ) {
+    echo apply_filters( 'show_entry_footer', true, $type, $format );
 	if ( ! apply_filters( 'show_entry_footer', true, $type, $format ) ) { // Allow certain post formats to short-circuit this function.
 		return;
 	}
@@ -1231,4 +1233,20 @@ function lander_audio_footer() {
 		<meta itemprop="mainEntityOfPage" itemscope itemtype="<?php echo is_page() ? 'https://schema.org/WebPage' : 'https://schema.org/Blog'; ?>" />
 	</footer><!-- .entry-footer -->
 	<?php
+}
+
+add_action('lander_entry_footer', 'lander_afterentry_sidebar', 11, 2);
+
+function lander_afterentry_sidebar( $type, $format ) {
+    if( ! apply_filters( 'show_afterfentry_widgets', true ) ) {
+        return;
+    }
+    if(is_singular()) {
+        if ( is_active_sidebar( 'afterentry' ) ) { ?>
+            <aside <?php hybrid_attr( 'sidebar', 'afterentry' ); ?>>
+                <?php dynamic_sidebar( 'afterentry' ); // Displays the subsidiary sidebar. ?>
+            </aside><!-- #sidebar-subsidiary -->
+        <?php
+        }
+    }
 }
