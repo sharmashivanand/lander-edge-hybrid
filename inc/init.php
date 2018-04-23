@@ -212,7 +212,7 @@ function lander_enqueue_styles() {
 
 function lander_enqueue_font( $handle, $args = array() ) {
 	$args['version'] = null;
-	hybrid_enqueue_font( $handle, $args );
+	//hybrid_enqueue_font( $handle, $args );
 };
 
 function lander_register_font( $handle, $args = array() ) {

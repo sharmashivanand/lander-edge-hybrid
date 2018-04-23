@@ -63,6 +63,58 @@ function lander_header() {
 
 }
 
+add_filter('hybrid_site_title','lander_site_title_modfier');
+
+// Change sitetitle markup from h1 to h2 on front and to p everywhere else;
+function lander_site_title_modfier( $site_title ){
+    if(is_front_page() || is_home()) {
+        $site_title = str_replace('<h1', '<h2', $site_title );
+        $site_title = str_replace('h1>', 'h2>', $site_title );
+        return $site_title;
+    }
+    else {
+        $site_title = str_replace('<h1', '<p', $site_title);
+        $site_title = str_replace('h1>', 'p>', $site_title);
+        return $site_title;
+    }
+}
+
+
+add_filter('hybrid_site_description','lander_site_description_modfier');
+// Change site description markup from h2 to h1 on front and to p everywhere else;
+function lander_site_description_modfier( $site_description ){
+    if(is_front_page() || is_home()) {
+        $site_description = str_replace('<h2', '<h1', $site_description );
+        $site_description = str_replace('h2>', 'h1>', $site_description );
+        return $site_description;
+     }
+     else {
+        $site_description = str_replace('<h2', '<p', $site_description );
+        $site_description = str_replace('h2>', 'p>', $site_description );
+        return $site_description;
+     }
+}
+
+/*
+page_on_front 
+The ID of the page that should be displayed on the front page. Requires show_on_front's value to be page.
+Data type: Integer
+
+page_for_posts 
+The ID of the page that displays posts. Useful when show_on_front's value is page.
+Data type: Integer
+
+show_on_front 
+What to show on the front page
+posts : Your latest posts (default)
+page : A static page (see page_on_front)
+Data type: String
+
+function lander_is_custom_front(){
+    'page' === get_option( 'show_on_front' ) && is_page( get_option( 'page_on_front' ) )    // is show_on_front is a page && we are on the front page
+}
+*/
+
 add_action('wp_head' , 'lander_layout_css');
 function lander_layout_css() {
     ?>
