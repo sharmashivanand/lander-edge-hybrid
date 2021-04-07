@@ -70,11 +70,15 @@ function lander_site_title_modfier( $site_title ){
     if(is_front_page() || is_home()) {
         $site_title = str_replace('<h1', '<h2', $site_title );
         $site_title = str_replace('h1>', 'h2>', $site_title );
+        $site_title = str_replace('rel="home"', 'rel="nofollow"', $site_title );
+		
         return $site_title;
     }
     else {
         $site_title = str_replace('<h1', '<p', $site_title);
         $site_title = str_replace('h1>', 'p>', $site_title);
+		$site_title = str_replace('rel="home"', 'rel="nofollow"', $site_title );
+
         return $site_title;
     }
 }

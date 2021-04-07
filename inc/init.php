@@ -8,6 +8,11 @@ define( 'HYBRID_URI', $lander_uri . 'inc/hybrid-core/' );
 
 define( '1c', '720' );
 define( '2c-l', '720' );
+define( '2c-r', '720' );
+define( '3c-l', '720' );
+define( '3c-c', '720' );
+define( '3c-r', '720' );
+
 
 require_once( $lander_dir . 'inc/hybrid-core/hybrid.php' );
 include_once( $lander_dir . 'inc/templates/customizer.php' );

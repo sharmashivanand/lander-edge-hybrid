@@ -133,7 +133,7 @@ function lander_post_header( $type, $format ) {
 	if ( is_singular() ) {
 		the_title( '<h1 ' . hybrid_get_attr( 'entry-title' ) . '>', '</h1>' );
 	} else {
-		the_title( '<h1 ' . hybrid_get_attr( 'entry-title' ) . '><a href="' . get_permalink() . '" rel="bookmark" itemprop="url">', '</a></h1>' );
+		the_title( '<h1 ' . hybrid_get_attr( 'entry-title' ) . '><a rel="nofollow" href="' . get_permalink() . '" rel="bookmark" itemprop="url">', '</a></h1>' );
 	}
 	?>
 	</header><!-- .entry-header -->

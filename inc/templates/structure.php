@@ -137,7 +137,7 @@ function lander_skip_link() {
     );
 
 	?>
-    <a href="#content" class="screen-reader-text"><?php esc_html_e( 'Skip to content', 'lander' ); ?></a>
+    <a rel="nofollow" href="#content" class="screen-reader-text"><?php esc_html_e( 'Skip to content', 'lander' ); ?></a>
     <?php
 
 	 lander_markup(
